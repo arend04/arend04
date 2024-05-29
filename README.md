@@ -5,11 +5,6 @@
 
 <p align="left">Atualmente, estou embarcando em uma emocionante transição para a área de Tecnologia da Informação (TI).
 
-Com 18 anos dedicados à manutenção de subestações de alta tensão, minha jornada me proporcionou não apenas experiência técnica sólida, mas também uma visão única sobre liderança e gestão de equipes.
-
-Graduada em Recursos Humanos, mergulhei nas complexidades das relações interpessoais, trazendo uma abordagem humana para a gestão. Minha paixão pela construção de equipes fortes e pela busca de soluções inovadoras impulsionaram minha carreira ao longo dos anos.
-
-Vivi o último ano em Madrid e isto expandiu meus horizontes e consolidou minha habilidade de comunicar-me fluentemente em espanhol. Essa experiência internacional não só aprimorou minhas habilidades linguísticas, mas também me instigou a buscar oportunidades desafiadoras e multiculturalmente enriquecedoras.
 
 
 <h3 align="left">Connect with me!</h3>
